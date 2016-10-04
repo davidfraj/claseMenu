@@ -1,9 +1,9 @@
 {
-    "name": "davidfraj/claseMenu",
+    "name": "davidfraj/clasemenu",
     "type": "library",
     "description": "Menu para PHP",
     "keywords": ["menu","clase"],
-    "homepage": "https://github.com/davidfraj/claseMenu",
+    "homepage": "https://github.com/davidfraj/clasemenu",
     "license": "OpenSource",
     "authors": [
         {
