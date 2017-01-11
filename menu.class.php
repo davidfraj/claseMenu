@@ -1,8 +1,6 @@
-﻿<?php
+<?php
 /*
-//Version del archivo a fecha 2017 - Enero - 11
-
-
+Lo que sea
 menu.class.php, adaptado a BOOTSTRAP
 Cómo usaré esta clase:
  $p será una variable, que contendrá la página que esta mostrando el index en este momento, de manera que se recogera en el index asi:
